@@ -13,4 +13,3 @@ Should work on all desktop platforms.
     - Fedora:
         - sudo yum install SDL2
         - sudo yum install SDL2-devel
-And that should do.
