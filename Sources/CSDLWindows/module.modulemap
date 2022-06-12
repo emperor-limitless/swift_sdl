@@ -1,0 +1,6 @@
+module CSDLWindows [system][extern_c] {
+    header "shims.h"
+    link "SDL2"
+    link "SDL2main"
+    export *
+}
